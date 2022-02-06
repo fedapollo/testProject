@@ -6,7 +6,7 @@
         <entry key="app/src/main/res/drawable/image_frame.xml" value="0.32051282051282054" />
         <entry key="app/src/main/res/drawable/vt_arrow.xml" value="0.10833333333333334" />
         <entry key="app/src/main/res/layout/dialog_full_loading.xml" value="0.14427083333333332" />
-        <entry key="app/src/main/res/layout/git_repository_details_fragment.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/git_repository_details_fragment.xml" value="0.25" />
         <entry key="app/src/main/res/layout/item_git_repository.xml" value="0.25" />
         <entry key="app/src/main/res/layout/main_activity.xml" value="0.1" />
         <entry key="app/src/main/res/layout/main_fragment.xml" value="0.17708333333333334" />

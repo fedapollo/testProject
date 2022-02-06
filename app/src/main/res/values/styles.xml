@@ -10,4 +10,22 @@
         <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
         <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
     </style>
+
+    <style name="Font" />
+
+    <style name="Font.ListText">
+        <item name="android:textColor">@color/black_blue</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="Font.UserNameText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black_blue</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+
+    <style name="Font.DetailsText">
+        <item name="android:textColor">@color/black_blue</item>
+        <item name="android:textSize">24sp</item>
+    </style>
 </resources>
